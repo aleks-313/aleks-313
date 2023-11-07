@@ -1,67 +1,37 @@
-# Resume
+# Hi, I'm Aleks! 👋
 
 <aside>
-👋 I'm a **software engineer** based in **Barcelona** with **10 years of experience** in the software industry. My focus area for the past few years has been front-end development with React, but I'm also skilled in back-end development with Go.
+I'm a Software Developer. I specialize in Java Backend.
 
 </aside>
 
-### **Contact**
+### **Contacts**
 
-[📧 adalovelace@mail.com](mailto:adalovelace@mail.com)
+[📧 sventicello@gmail.com](mailto:sventicello@gmail.com)
 
-[🐦 twitter.com/adalovelace](http://twitter.com/notionhq)
+[🔗 PLACEHOLDER](https://www.linkedin.com/company/notionhq/mycompany/)
 
-[🔗 linkedin.com/in/adalovelace](https://www.linkedin.com/company/notionhq/mycompany/)
+[👾 https://github.com/aleks-313](https://github.com/aleks-313)
 
-[👾 github.com/adalovelace](https://github.com/makenotion)
 
-# Experience
-
-### **Software Engineer II**
-
-***Typeform**, Barcelona, Spain – (Dec 2019 - Present)*
-
-- Full-stack engineer in the team responsible for integrations and developer tools. We're in charge of defining and improving the developer experience with Typeform's platform.
-- Initially focused on front-end, single-handedly led the efforts to re-build our front-ends for OAuth applications, Personal Tokens and Webhooks from scratch using React, Redux, Styled Components, Jest, etc.
-- Contributed to our back-end services for webhooks and integrations built in Node.js (Express/Hapi) and GoLang with PostgreSQL.
-- Performed coaching of junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define roadmaps and feature priorities.
-
-### QA Automation Engineer
-
-***OLX Group**, Buenos Aires, Argentina – (May 2014 - Oct 2019)*
-
-- Built automated acceptance and contract test suites for the company's core and payments APIs, using Node.js, Mocha and Chai and later on PHP with Behat. Reviewed and validated the development of new features to ensure the API design and underlying logic remained consistent.
-- Took active part in the Diversity and Women in Tech initiatives, with regular meetings and driving proposals across the company. Coached colleagues in drafting talk proposals and public in general.
-
-### Software Tester
-
-***Hexacta**, Buenos Aires, Argentina – (Aug 2012 - Apr 2014)*
-
-- Developed and executed functional testing plans for Bolloré Ipaki, a shipping container terminal and logistics administration web app.
-- Evaluated new client requirements, defined use cases and maintained a local testing environment.
-
-### **QA Analyst**
-
-***Wunderman** BA, Buenos Aires, Argentina – (Apr 2011 - Jul 2012)*
-
-- In the advertising agency Wunderman, performed as the single QA in multiple simultaneous projects of diverse complexity. Validated, copy and assets, user flows and functionality and did exploratory testing on tools and apps within the public websites for Ford and Lincoln cars.
-- Managed communication with PMs and developer teams remotely and was in charge of estimation and prioritisation.
-
----
 
 # Skills
 
-### Javascript
+### Java
 
-My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
+My primary programming language. I've studied it for 6 years and used it more actively for the last 2 years. 
 
-### Golang
+### Java Spring Framework
 
-I've started learning it recently and found it challenging (in a good way!) I'm not proficient yet but I've worked on some features and fixes on my own.
+I have experience utilizing several projects of the Spring Framework. This includes Spring Boot, Spring MVC, Spring Data, Spring Security, Spring REST, and Spring Web Services.
 
-### Technical writing
+### MySQL
 
-I enjoy writing about technical subjects and I feel I can do a pretty good job about it! My motivation is explaining things in simple and practical terms and thus making things easier for others.
+I know SQL and how to use MySQL DBMS, as well as integrating the database to a Java web app using Spring Data JPA (with Hibernate as a persistence provider).
+
+### Git / GitHub
+
+I know how to work well in a collaborative team using Github.
 
 ---
 
