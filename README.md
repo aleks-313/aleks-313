@@ -37,46 +37,15 @@ I know how to work well in a collaborative team using Github.
 
 # Languages
 
-### Spanish 🇪🇸🇦🇷
+### Italian
 
 Native speaker
 
-### English 🇺🇸
+### English
 
 Proficient speaker
 
----
+### Bulgarian
 
-# Articles and Talks
+Proficient speaker
 
-- [Dancing with OAuth: a step by step guide](https://dev.to/anabella/dancing-with-oauth-emp)
-- [A peep beneath the hood of PassportJS' OAuth flow](https://dev.to/anabella/a-peep-beneath-the-hood-of-passportjs-oauth-flow-eb5)
-- [Why do great developers love writing tests?](https://dev.to/anabella/why-do-great-developers-love-writing-tests-1o6j)
-- [A junior, a mid and a senior dev walk into a bar](https://dev.to/anabella/a-junior-a-mid-and-a-senior-dev-walk-into-a-bar-414f)
-- [The self-confidence toolbox for job interviews](https://dev.to/typeform/the-self-confidence-toolbox-for-job-interviews-4k3j)
-- [Understanding the different pairings of CSS Position flavours](https://dev.to/anabella/understanding-the-different-pairings-of-css-position-flavours-5855)
-- [Figuring out CSS floats with two sushi recipes](https://dev.to/anabella/figuring-out-css-floats-with-sushi-recipes-2c5o)
-
-🗣 **Talk:** [Learning the OAuth Dance](https://www.youtube.com/watch?v=ec2NBIoaUCM&t=1s) (APIdays Paris Dec 2018)
-
----
-
-# Education
-
-### **Bachelor's Degree in Computer Systems Analysis**
-
-*2017 (unfinished due to Relocation)*
-
-ORT - Buenos Aires
-
----
-
-# Contact
-
-[📧 adalovelace@mail.com](mailto:adalovelace@mail.com)
-
-[🐦 twitter.com/adalovelace](http://twitter.com/notionhq)
-
-[🔗 linkedin.com/in/adalovelace](https://www.linkedin.com/company/notionhq/mycompany/)
-
-[👾 github.com/adalovelace](https://github.com/makenotion)
