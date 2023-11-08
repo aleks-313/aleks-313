@@ -34,19 +34,3 @@ I know SQL and how to use MySQL DBMS, as well as integrating the database to a J
 
 I know how to work well in a collaborative team using Github.
 
----
-
-# Languages
-
-### Italian
-
-Native speaker
-
-### English
-
-Proficient speaker
-
-### Bulgarian
-
-Proficient speaker
-
