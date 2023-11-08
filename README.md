@@ -9,7 +9,7 @@ I'm a Software Developer. I specialize in Java Backend.
 
 [📧 sventicello@gmail.com](mailto:sventicello@gmail.com)
 
-[🔗 https://www.linkedin.com/in/ivanov-aleks/](https://www.linkedin.com/in/ivanov-aleks/)
+[🔗 LinkedIn](https://www.linkedin.com/in/ivanov-aleks/)
 
 [👾 https://github.com/aleks-313](https://github.com/aleks-313)
 
@@ -34,3 +34,6 @@ I know SQL and how to use MySQL DBMS, as well as integrating the database to a J
 
 I know how to work well in a collaborative team using Github.
 
+### Docker
+
+Experience in Dockerizing APIs, databases, and connecting them through Docker networks
