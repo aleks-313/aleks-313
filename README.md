@@ -13,8 +13,9 @@ I'm a Software Developer. I specialize in Java Backend.
 
 [👾 https://github.com/aleks-313](https://github.com/aleks-313)
 
-
-
+# Projects
+- [EmployeesREST](https://github.com/aleks-313/employeesREST) A showcase of the Spring Framework
+  
 # Skills
 
 ### Java
