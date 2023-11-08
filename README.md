@@ -9,7 +9,7 @@ I'm a Software Developer. I specialize in Java Backend.
 
 [📧 sventicello@gmail.com](mailto:sventicello@gmail.com)
 
-[🔗 PLACEHOLDER](https://www.linkedin.com/company/notionhq/mycompany/)
+[🔗 https://www.linkedin.com/in/ivanov-aleks/](https://www.linkedin.com/in/ivanov-aleks/)
 
 [👾 https://github.com/aleks-313](https://github.com/aleks-313)
 
